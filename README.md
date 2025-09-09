@@ -23,4 +23,4 @@
 | **IEEE BIBM (Bioinformatics & Biomedicine)** | Health Informatics | December | July | [ieeebibm.org](https://ieeebibm.org)                                             |
 | **PSB (Pacific Symp. on Biocomputing)** | Health Informatics | January (Hawaii) | Jun–Jul (prev. year) | [psb.stanford.edu](https://psb.stanford.edu)                                     |
 | **ACM BCB (Bioinformatics, Comp. Biology & Health Informatics)** | Health Informatics | Sep–Oct | May–July | [acm-bcb.org](https://acm-bcb.org)                                               |
-| **MIE (Medical Informatics Europe, EFMI)** | Health Informatics | August | Mar–Apr | [mie2025.org](https://mie2025.org)                                               |
+| **MIE (Medical Informatics Europe, EFMI)** | Health Informatics | May | October | [https://mie2025.org](https://mie2026.efmi.org/)                                               |
